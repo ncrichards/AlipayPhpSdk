@@ -8,6 +8,7 @@
 namespace AlipayPhpSdk;
 
 include 'aop/AopClient.php';
+include 'aop/request/AlipayTradeAppPayRequest.php';
 include 'aop/request/AlipayUserInfoShareRequest.php';
 include 'aop/request/AlipaySystemOauthTokenRequest.php';
 include 'aop/request/AlipayUserBenefitCreateRequest.php';

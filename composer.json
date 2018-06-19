@@ -1,15 +1,15 @@
 {
-    "name": "doweidu/alipay-php-sdk",
+    "name": "zorocloud/alipay-php-sdk",
     "description": "alipay sdk for php",
     "license": "MIT",
     "authors": [
         {
-            "name": "alibaba-baichuan",
-            "email": "wtop@taobao.com"
+            "name": "nc richards",
+            "email": "richard.njoku@zorocloud.com"
         }
     ],
     "autoload": {
         "files": ["AopSdk.php"],
-        "psr-0" : {"doweidu\\" : "alipayphpsdk/"}
+        "psr-0" : {"zorocloud\\" : "alipayphpsdk/"}
     }
 }

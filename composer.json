@@ -9,7 +9,7 @@
         }
     ],
 	"minimum-stability": "dev",
-	"version": "1.1",
+	"version": "1.2",
     "autoload": {
         "files": ["AopSdk.php"],
         "psr-0" : {"zorocloud\\" : "alipayphpsdk/"}

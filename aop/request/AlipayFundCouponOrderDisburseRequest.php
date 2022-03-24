@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.coupon.order.disburse request
  *
  * @author auto create
- * @since 1.0, 2017-03-13 11:31:12
+ * @since 1.0, 2020-07-29 16:40:54
  */
 class AlipayFundCouponOrderDisburseRequest
 {

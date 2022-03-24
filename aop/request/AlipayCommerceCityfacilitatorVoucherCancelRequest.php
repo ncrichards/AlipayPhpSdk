@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.cancel request
  *
  * @author auto create
- * @since 1.0, 2017-04-21 12:01:06
+ * @since 1.0, 2019-10-10 16:31:52
  */
 class AlipayCommerceCityfacilitatorVoucherCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.multimedia.download.proxy request
  *
  * @author auto create
- * @since 1.0, 2017-04-14 20:32:01
+ * @since 1.0, 2020-04-02 16:32:21
  */
 class AlipayOpenPublicMultimediaDownloadProxyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.cashlessvoucher.template.create request
  *
  * @author auto create
- * @since 1.0, 2017-09-21 17:03:48
+ * @since 1.0, 2020-04-23 16:55:09
  */
 class AlipayMarketingCashlessvoucherTemplateCreateRequest
 {

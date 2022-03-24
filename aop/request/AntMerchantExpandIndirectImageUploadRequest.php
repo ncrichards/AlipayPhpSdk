@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.indirect.image.upload request
  *
  * @author auto create
- * @since 1.0, 2017-03-22 10:12:21
+ * @since 1.0, 2020-07-31 14:21:58
  */
 class AntMerchantExpandIndirectImageUploadRequest
 {

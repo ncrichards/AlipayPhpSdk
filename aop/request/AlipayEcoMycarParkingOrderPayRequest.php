@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.parking.order.pay request
  *
  * @author auto create
- * @since 1.0, 2016-12-06 22:53:26
+ * @since 1.0, 2020-09-01 10:30:12
  */
 class AlipayEcoMycarParkingOrderPayRequest
 {
